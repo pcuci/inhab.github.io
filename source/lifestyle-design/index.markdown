@@ -9,4 +9,4 @@ footer: true
 
 ## Resources
 
-[BJ Fogg](http://bjfogg.com/)
+- [BJ Fogg](http://bjfogg.com/)
