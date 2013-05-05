@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Inhab Social WikiBlog]]></title>
+  <link href="http://inhab.github.io/atom.xml" rel="self"/>
+  <link href="http://inhab.github.io/"/>
+  <updated>2013-05-05T17:36:37-04:00</updated>
+  <id>http://inhab.github.io/</id>
+  <author>
+    <name><![CDATA[Inhab*]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
