@@ -6,3 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
+
+## Resources
+
+[BJ Fogg](http://bjfogg.com/)
