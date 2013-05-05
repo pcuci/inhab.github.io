@@ -1,23 +1,23 @@
 ---
 layout: page
-title: "index"
-date: 2013-05-05 12:57
 comments: true
-sharing: true
 footer: true
 ---
+To better organize these topics, look at [Khan Academy](http://khanacademy.org)
 
-# Topics
-(gain inspiration from [Khan Academy](http://khanacademy.org)
+## Lifestyle
+-   [Lifestyle Design](lifestyle-design)
+-   [Behavior Change](behavioral-change) and [Habit Formation](habit-formation)
+-   [Health Promotion](health-promotion) and [Disease Prevention](disease-prevention)
+-   [Long-term Travel](long-term-travel)
+-   [Behavioral Economics](behavioral-economics)
 
--   [Inhab* Blog](blog)
+## Technology
 -   [Distributed Agile](distributed-agile)
+
+## Design
 -   [Human Computer Interaction](hci)
--   [Design](design)
--   [UX](ux)
 -   [Gamification](gamification)
--   [Behavioral Economics](behavioral_economics)
--   [Behavior Change](behavioral_change) and [Habit Formation](habit_formation)
--   [Health Promotion](health_promotion) and [Disease Prevention](disease_prevention)
--   [Long-term Travel](long-term_travel)
+-   [UX](ux)
+-   [Design](design)
 
